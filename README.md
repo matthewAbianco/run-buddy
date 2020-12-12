@@ -1,1 +1,14 @@
-this is a test read me because i like fun 
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Matthew Bianco
